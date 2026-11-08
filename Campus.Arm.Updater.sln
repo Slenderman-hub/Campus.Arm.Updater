@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campus.Arm.Updater", "Campus.Arm.Updater\Campus.Arm.Updater.csproj", "{AD4DBE65-AC77-4493-98ED-C5BA9C5D1454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4DBE65-AC77-4493-98ED-C5BA9C5D1454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4DBE65-AC77-4493-98ED-C5BA9C5D1454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4DBE65-AC77-4493-98ED-C5BA9C5D1454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4DBE65-AC77-4493-98ED-C5BA9C5D1454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829F8224-62AC-4B34-98D4-4B893E77211E}
+	EndGlobalSection
+EndGlobal

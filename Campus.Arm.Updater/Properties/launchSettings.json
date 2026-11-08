@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Campus.Arm.Updater": {
+      "commandName": "Project",
+      "commandLineArgs": "--api-url=https://10.255.255.1 --api-timeout=2"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "armId": "ARM-KPP-01",
+  "dbPath": "data/campus-local.db",
+  "readerFile": "reader/test-card.txt",
+  "apiUrl": "https://api.ipify.org?format=json",
+  "apiTimeoutSeconds": 5,
+  "reportsDir": "reports"
+}
